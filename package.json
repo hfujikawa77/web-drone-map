@@ -1,0 +1,9 @@
+{
+  "type": "module",
+  "dependencies": {
+    "express": "^4.21.2",
+    "mavlink": "^1.0.1",
+    "node-mavlink": "^2.0.8",
+    "socket.io": "^4.8.1"
+  }
+}
